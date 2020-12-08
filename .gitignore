@@ -1,5 +1,6 @@
 /_private/
 /.settings
+/.gradle
 /.project
 
 /DisplayObjects/mobile/*
